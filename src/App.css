@@ -6,7 +6,22 @@
   height: 40vmin;
   pointer-events: none;
 }
+.GeeksForGeeks {
+  background-image: 
+  url(
+"https://i.ytimg.com/vi/t0Q2otsqC4I/maxresdefault.jpg");
+  background-size: "cover";
+  border-radius: 10px;
+  margin:10px;
+  font-size:50px;
 
+}
+.card{
+  background-image: 
+  url(
+"https://lumiere-a.akamaihd.net/v1/images/pp_frozen_herobanner_mobile_20501_ae840c59.jpeg?region=0,0,1024,768");
+  
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
